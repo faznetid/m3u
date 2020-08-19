@@ -24,9 +24,6 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HIBURAN",Cartoon Network
 http://188.35.9.11:21151/udp/185f
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HIBURAN",California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.firstmediapromo.com/wp-content/uploads/2015/04/channel-Karaoke-30.jpg" group-title="HIBURAN",Karaoke Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u
 
