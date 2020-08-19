@@ -1,26 +1,5 @@
 #EXTM3U
 
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",RCTI
-https://linier.akamaized.net:443/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_300000=4-mp4a_64000=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",MNC
-https://linier.akamaized.net:443/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",ANTV
-https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",SCTV
-https://vcdnjt.useetv.com:443/joss/15/sctv/chunklist_w457941769_b684100_sleng_177560.m3u8?enc=CzJp5fPQrCzHCTbQgiA6DQ&exp=1587469270
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",INDOSIAR
-https://vcdnjt.useetv.com:443/joss/15/indosiar/chunklist_w216473056_b684100_sleng_177560.m3u8?enc=fNhkrkjP1SfsMprexUm1ZA&exp=1587469129
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",NET TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel%28404d689d-691f-4035-9801-ae8bfd8712e9%29/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",GTV
 https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
@@ -33,11 +12,6 @@ https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",RTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",INEWS
-https://linier.akamaized.net:443/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",BERITASATU
 https://livetvhooq.akamaized.net:443/e23061b584d746ba811292c8e1bc783d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1587751480~exp=9007200842492471~acl=/e23061b584d746ba811292c8e1bc783d/*/profile_0/chunklist.m3u8*~hmac=0dc929c054bd8b1a090224c6792d683e9bae2c33e026e49492468c4f2fa88daf
@@ -69,11 +43,6 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",TVRI SPORT HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",JAKTV
-https://livetvhooq.akamaized.net/7393cf95fc9644f59c57815f6d086522/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578217916~exp=9007200832958907~acl=/7393cf95fc9644f59c57815f6d086522/*/profile_0/chunklist.m3u8*~hmac=b0e46a8555fc20b9692127b3fa54fddf6136779421465e59a66cfa8a19abd616
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",JAWAPOS
-https://livetvhooq.akamaized.net:443/22c46cbe1f2747d1b4766a75d8b06f19/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1587751362~exp=9007200842492353~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*/profile_0/chunklist.m3u8*~hmac=d89f932b94179dc9058ab21c3ad0136d14ec468bb4e5466fc583f579613554ec
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA",JTV SURABAYA
 https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
@@ -86,12 +55,6 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN", AL-BAHJAH TV
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN", NABAWI TV
-http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN", RODJA TV
-http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbhjnpP.jpg/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",TV9
 https://vcdnjt.useetv.com:443/joss/14/tv9/chunklist_w1823610374_b684100_sleng_177560.m3u8?enc=gHehqfx82RU4rLomNI6dfQ&exp=1587472048
